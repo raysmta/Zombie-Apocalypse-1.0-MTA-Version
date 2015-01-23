@@ -1,0 +1,5 @@
+<meta>
+	<info author="Zyky" description="Save system by Zyky" version="1.0.1" type="script" />
+	<script src="zyky.lua" type="server" />
+
+</meta>

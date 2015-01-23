@@ -1,0 +1,5 @@
+<meta>
+	<info author="Aayan^" type="script" version="1.0" name="Drop Weapon(s)" />
+ 
+	<script src="server.luac" type="server" />
+</meta>

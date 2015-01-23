@@ -1,0 +1,27 @@
+<meta>
+	<info author="DoN" 
+	version="1.1" 
+	type="script"
+	name="Weapons Shop" 
+	description="Weapons shop" />
+	<script src="Client.lua" type="client"/>
+	<script src="Server.lua" type="server"/>
+	<file src="Images/Ak.png" />
+	<file src="Images/Armor.png" />
+	<file src="Images/Deagle.png" />
+	<file src="Images/Grenade.png" />
+	<file src="Images/M4.png" />
+	<file src="Images/Molotov.png" />
+	<file src="Images/Mp5.png" />
+	<file src="Images/Pistol.png" />
+	<file src="Images/Rifle.png" />
+	<file src="Images/Satchel.png" />
+	<file src="Images/Sawn-Off.png" />
+	<file src="Images/Shotgun.png" />
+	<file src="Images/Silenced.png" />
+	<file src="Images/Sniper.png" />
+	<file src="Images/Spaz.png" />
+	<file src="Images/TearGas.png" />
+	<file src="Images/Tec.png" />
+	<file src="Images/Uzi.png" />
+</meta>

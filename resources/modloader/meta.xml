@@ -1,0 +1,72 @@
+<meta>
+    <info type="script" description="Automatically load any mod you want!" author="Remi-X" version="1.0.3" name="ModLoader" />
+    <script src="loader_s.lua" type="server" />
+    <script src="deleter_s.lua" type="server" />
+    <script src="handling.lua" type="server" />
+    <script src="data.lua" type="server" />
+    <script src="replacer_c.lua" type="client" />
+    <file src="skins/wmydrug.txd"></file>
+    <file src="skins/wmydrug.dff"></file>
+    <file src="weapons/ak47.txd"></file>
+    <file src="weapons/ak47.dff"></file>
+    <file src="weapons/sniper.txd"></file>
+    <file src="weapons/sniper.dff"></file>
+    <file src="weapons/knifecur.txd"></file>
+    <file src="weapons/knifecur.dff"></file>
+    <file src="weapons/rocketla.txd"></file>
+    <file src="weapons/rocketla.dff"></file>
+    <file src="weapons/katana.txd"></file>
+    <file src="weapons/katana.dff"></file>
+    <file src="weapons/nitestick.txd"></file>
+    <file src="weapons/nitestick.dff"></file>
+    <file src="weapons/silenced.txd"></file>
+    <file src="weapons/silenced.dff"></file>
+    <file src="weapons/shotgspa.txd"></file>
+    <file src="weapons/shotgspa.dff"></file>
+    <file src="weapons/spraycan.txd"></file>
+    <file src="weapons/spraycan.dff"></file>
+    <file src="weapons/micro_uzi.txd"></file>
+    <file src="weapons/micro_uzi.dff"></file>
+    <file src="weapons/tec9.txd"></file>
+    <file src="weapons/tec9.dff"></file>
+    <file src="weapons/cuntgun.txd"></file>
+    <file src="weapons/cuntgun.dff"></file>
+    <file src="weapons/chromegun.txd"></file>
+    <file src="weapons/chromegun.dff"></file>
+    <file src="weapons/grenade.txd"></file>
+    <file src="weapons/grenade.dff"></file>
+    <file src="weapons/sawnoff.txd"></file>
+    <file src="weapons/sawnoff.dff"></file>
+    <file src="weapons/mp5lng.txd"></file>
+    <file src="weapons/mp5lng.dff"></file>
+    <file src="weapons/desert_eagle.txd"></file>
+    <file src="weapons/desert_eagle.dff"></file>
+    <file src="weapons/colt45.txd"></file>
+    <file src="weapons/colt45.dff"></file>
+    <file src="weapons/missile.txd"></file>
+    <file src="weapons/missile.dff"></file>
+    <file src="weapons/molotov.txd"></file>
+    <file src="weapons/molotov.dff"></file>
+    <file src="weapons/m4.txd"></file>
+    <file src="weapons/m4.dff"></file>
+    <file src="weapons/bat.txd"></file>
+    <file src="weapons/bat.dff"></file>
+    <file src="weapons/shovel.txd"></file>
+    <file src="weapons/shovel.dff"></file>
+    <file src="skins/dwfolc.txd"></file>
+    <file src="skins/dwfolc.dff"></file>
+    <file src="skins/dwmolc1.txd"></file>
+    <file src="skins/dwmolc1.dff"></file>
+    <file src="skins/dwmolc2.txd"></file>
+    <file src="skins/dwmolc2.dff"></file>
+    <file src="skins/dwmylc1.txd"></file>
+    <file src="skins/dwmylc1.dff"></file>
+    <file src="skins/hfost.txd"></file>
+    <file src="skins/hfost.dff"></file>
+    <file src="skins/bfost.txd"></file>
+    <file src="skins/bfost.dff"></file>
+    <file src="skins/bfyri.txd"></file>
+    <file src="skins/bfyri.dff"></file>
+    <file src="skins/vbfycrp.txd"></file>
+    <file src="skins/vbfycrp.dff"></file>
+</meta>

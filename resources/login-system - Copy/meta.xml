@@ -1,0 +1,10 @@
+<meta>
+<info author="RaysMTA" type="gamemode" name="Apocalypse 1.0" description="Zombie Apocalypse 1.0" />
+<script src="server.lua" type="server"/>
+<script src="client.lua" type="client"/>
+<file src="zombieserver.png" />
+<file src="zombieserver.png" />
+<file src="zombieserver.png" />
+<file src="zombieserver.png" />
+<file src="zombieserver.png" />
+</meta>

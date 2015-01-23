@@ -1,0 +1,5 @@
+<meta>
+    <info author="FabioGNR" name="vehicle_spawner" version="1.2" type="misc"/>
+	<script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+</meta>

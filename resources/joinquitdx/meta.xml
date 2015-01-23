@@ -1,0 +1,4 @@
+<meta>
+	<info author='ElMota' version='1.3' name='JoinQuit DX' type='script' />
+	<script src="joinquit.lua" type="client" />
+</meta>

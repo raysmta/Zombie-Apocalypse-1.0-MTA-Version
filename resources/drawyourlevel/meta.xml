@@ -1,0 +1,5 @@
+<meta>
+	<info author="TimmY14" version="1.0.0" type="script" name="drawyourlevel" description="esto te dira tu level en un texto bajo el hud" />
+	<script src="main_c.lua" type="client" />
+	<script src="main_level.lua" type="client" />
+</meta>

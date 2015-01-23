@@ -1,0 +1,9 @@
+<meta>
+	<info type="misc" name="Texture eplacement for ped ID: 29" author="RaysMTA" description="" version="1" />
+	<script type="client" src="replace.lua" />
+	<script type="client" src="readme.lua" />
+	<!-- generated with http://mta.dzek.eu/ -->
+
+<file src="wmyst.dff"/>
+<file src="wmyst.txd"/>
+</meta>

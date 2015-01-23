@@ -1,0 +1,7 @@
+<levels>
+	<level name = "Test 1" experienceRequired = "20" />
+	<level name = "Test 2" experienceRequired = "100" />
+	<level name = "Test 3" experienceRequired = "150" />
+	<level name = "Test 4" experienceRequired = "200" />
+	<level name = "Test 5" experienceRequired = "2000" />
+</levels>

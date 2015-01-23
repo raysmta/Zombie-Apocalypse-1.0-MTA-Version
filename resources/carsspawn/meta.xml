@@ -1,0 +1,13 @@
+<meta>
+  <info author="AHMAD" name="cars spawn" version="1.1" type="script" /> 
+  <script src="Window.lua" type="client" />
+  <script src="server.lua" type="server" />
+    <settings>
+		<setting name="*markerSize" value="1.5"	friendlyname="marker size" group="settings" />
+		<setting name="*markerColorR" value="255" friendlyname="marker color red" group="settings"/>
+		<setting name="*markerColorG" value="255" friendlyname="marker color green" group="settings"/>
+		<setting name="*markerColorB" value="255" friendlyname="marker color blue" group="settings"/>
+		<setting name="*markerAlpha" value="255" friendlyname="marker alpha" group="settings"/>
+		<setting name="*blipIconID" value="55" friendlyname="blips icon ID" group="settings"/>
+	</settings>
+</meta>
